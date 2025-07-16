@@ -1,0 +1,11 @@
+D:\Projects\readme.ai\ReadmeGenerator.Core\bin\Debug\net9.0\ReadmeGenerator.Core.deps.json
+D:\Projects\readme.ai\ReadmeGenerator.Core\bin\Debug\net9.0\ReadmeGenerator.Core.dll
+D:\Projects\readme.ai\ReadmeGenerator.Core\bin\Debug\net9.0\ReadmeGenerator.Core.pdb
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.AssemblyInfoInputs.cache
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.AssemblyInfo.cs
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.csproj.CoreCompileInputs.cache
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.dll
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\refint\ReadmeGenerator.Core.dll
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.pdb
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ref\ReadmeGenerator.Core.dll

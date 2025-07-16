@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReadmeGenerator.CLI/1.0.0": {
+        "dependencies": {
+          "ReadmeGenerator.Core": "1.0.0"
+        },
+        "runtime": {
+          "ReadmeGenerator.CLI.dll": {}
+        }
+      },
+      "ReadmeGenerator.Core/1.0.0": {
+        "runtime": {
+          "ReadmeGenerator.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadmeGenerator.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadmeGenerator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

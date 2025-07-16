@@ -9,3 +9,4 @@ D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core
 D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\refint\ReadmeGenerator.Core.dll
 D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.pdb
 D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ref\ReadmeGenerator.Core.dll
+D:\Projects\readme.ai\ReadmeGenerator.Core\obj\Debug\net9.0\ReadmeGenerator.Core.sourcelink.json

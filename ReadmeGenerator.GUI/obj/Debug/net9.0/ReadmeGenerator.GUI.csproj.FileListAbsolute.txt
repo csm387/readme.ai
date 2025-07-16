@@ -74,3 +74,4 @@ D:\Projects\readme.ai\ReadmeGenerator.GUI\obj\Debug\net9.0\refint\ReadmeGenerato
 D:\Projects\readme.ai\ReadmeGenerator.GUI\obj\Debug\net9.0\ReadmeGenerator.GUI.pdb
 D:\Projects\readme.ai\ReadmeGenerator.GUI\obj\Debug\net9.0\ReadmeGenerator.GUI.genruntimeconfig.cache
 D:\Projects\readme.ai\ReadmeGenerator.GUI\obj\Debug\net9.0\ref\ReadmeGenerator.GUI.dll
+D:\Projects\readme.ai\ReadmeGenerator.GUI\obj\Debug\net9.0\ReadmeGenerator.GUI.sourcelink.json

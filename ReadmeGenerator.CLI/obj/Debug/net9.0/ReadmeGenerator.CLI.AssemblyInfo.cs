@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadmeGenerator.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1acd91b90aaab46b86eb9ee900a4ee91cf0693a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadmeGenerator.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadmeGenerator.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

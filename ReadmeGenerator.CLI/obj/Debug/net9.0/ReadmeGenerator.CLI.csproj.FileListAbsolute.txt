@@ -16,3 +16,4 @@ D:\Projects\readme.ai\ReadmeGenerator.CLI\obj\Debug\net9.0\refint\ReadmeGenerato
 D:\Projects\readme.ai\ReadmeGenerator.CLI\obj\Debug\net9.0\ReadmeGenerator.CLI.pdb
 D:\Projects\readme.ai\ReadmeGenerator.CLI\obj\Debug\net9.0\ReadmeGenerator.CLI.genruntimeconfig.cache
 D:\Projects\readme.ai\ReadmeGenerator.CLI\obj\Debug\net9.0\ref\ReadmeGenerator.CLI.dll
+D:\Projects\readme.ai\ReadmeGenerator.CLI\obj\Debug\net9.0\ReadmeGenerator.CLI.sourcelink.json

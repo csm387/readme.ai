@@ -22,10 +22,10 @@ class Program
         var apiKey = Console.ReadLine()?.Trim() ?? "";
 
         var generator = new ReadmeService(apiKey);
-        var prompt = generator.GeneratePromptFromDirectory(path);
+        var prompt = await generator.GeneratePromptFromDirectory(path);
 
         Console.WriteLine("🧠 Sent to AI...");
-        var readme = await generator.GenerateReadmeAsync(prompt);
+        string  readme = await generator.GenerateReadmeAsync(prompt);
 
         File.WriteAllText(Path.Combine(path, "README.md"), readme);
         Console.WriteLine("✅ README.md successfully generated!");
